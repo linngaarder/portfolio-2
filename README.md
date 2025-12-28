@@ -8,7 +8,7 @@ These were the requirements:
 - a screenshot of how the project looks when running,
 - a link to the GitHub repo and a live site if it is online.
 
-This site was made using:
+## This site was made using:
 
 React Vite & Tailwind css.
 
