@@ -13,7 +13,7 @@ These were the requirements:
 React Vite & Tailwind css.
 
 
-It includes:
+## It includes:
 
 Semester Project 2 - a website that displays blog posts.
 
