@@ -50,3 +50,7 @@ npm run build
 Start production server:
 
 npm run dev
+
+Using EsLint:
+
+npm run lint
